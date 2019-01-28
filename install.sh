@@ -3,13 +3,13 @@
 sudo apt install subversion
 
 cd ~/Documents/
-if [! -d my_code ]; then
+if [ ! -d my_code ]; then
 	mkdir my_code
 fi
-if [! -f my_code/input.txt ]; then
+if [ ! -f my_code/input.txt ]; then
 	touch my_code/input.txt
 fi
-if [! -d my_code/output.txt ]; then
+if [ ! -d my_code/output.txt ]; then
 	touch my_code/output.txt
 fi
 cd ~/.config
