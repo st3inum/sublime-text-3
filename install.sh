@@ -12,7 +12,7 @@ if [ ! -f my_code/output.txt ]; then
 	touch my_code/output.txt
 fi
 
-if ! [ -x "$(command -v svn)" ]; then
+if [ ! -x "$(command -v svn)" ]; then
   sudo apt install subversion
 fi
 cd ~/.config
