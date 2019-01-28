@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "python -u \"$file\"<~/Documents/my_code/input.txt>~/Documents/my_code/output.txt",
+	"selector": "source.python",
+}

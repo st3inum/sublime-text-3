@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}
