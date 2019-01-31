@@ -6,10 +6,762 @@
 		"/home/steinum/Documents/my_code"
 	],
 	"last_version": 3176,
-	"last_window_id": 1,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Cara",
+						"setCharacterSize"
+					],
+					[
+						"He",
+						"Help"
+					],
+					[
+						"is",
+						"is_help"
+					],
+					[
+						"is_h",
+						"is_help"
+					],
+					[
+						"set",
+						"setPosition"
+					],
+					[
+						"Help",
+						"Help_t"
+					],
+					[
+						"help",
+						"Help"
+					],
+					[
+						"timer",
+						"timer_stone"
+					],
+					[
+						"tiem",
+						"timer_fattor"
+					],
+					[
+						"count",
+						"count_frame"
+					],
+					[
+						"clo",
+						"close_b"
+					],
+					[
+						"close",
+						"close_w"
+					],
+					[
+						"high",
+						"highscore_t"
+					],
+					[
+						"hi",
+						"highscore_t"
+					],
+					[
+						"win",
+						"window1"
+					],
+					[
+						"new",
+						"new_resume"
+					],
+					[
+						"menu",
+						"menu_m"
+					],
+					[
+						"con",
+						"coin_m"
+					],
+					[
+						"Sound",
+						"SoundBuffer"
+					],
+					[
+						"open",
+						"openFromFile"
+					],
+					[
+						"h",
+						"highscore"
+					],
+					[
+						"main",
+						"main_menu"
+					],
+					[
+						"game",
+						"game_over_s"
+					],
+					[
+						"game_",
+						"game_over_t"
+					],
+					[
+						"men",
+						"menu_bar_w"
+					],
+					[
+						"coin",
+						"coin_point"
+					],
+					[
+						"coin_",
+						"coin_image_number"
+					],
+					[
+						"co",
+						"coin_image_number"
+					],
+					[
+						"heal",
+						"health"
+					],
+					[
+						"to",
+						"to_string"
+					],
+					[
+						"text",
+						"text_health"
+					],
+					[
+						"te",
+						"text_health"
+					],
+					[
+						"load",
+						"loadFromFile"
+					],
+					[
+						"Hlea",
+						"HealthBar"
+					],
+					[
+						"Heal",
+						"HealthBar"
+					],
+					[
+						"Wi",
+						"win_W"
+					],
+					[
+						"bli",
+						"blink"
+					],
+					[
+						"fattor",
+						"fattor_blink_flag"
+					],
+					[
+						"fatto",
+						"fattor_blink_flag"
+					],
+					[
+						"cha",
+						"chaka1"
+					],
+					[
+						"int",
+						"intersects"
+					],
+					[
+						"get",
+						"getGlobalBounds"
+					],
+					[
+						"blnk",
+						"blink_time"
+					],
+					[
+						"stone",
+						"stone_coin"
+					],
+					[
+						"sto",
+						"stone_coin"
+					],
+					[
+						"fat",
+						"fattor1"
+					],
+					[
+						"time",
+						"timer1"
+					],
+					[
+						"pat",
+						"pathor"
+					],
+					[
+						"op",
+						"op_cnt"
+					],
+					[
+						"loa",
+						"load_pathor"
+					],
+					[
+						"WIN",
+						"win_W"
+					],
+					[
+						"pa",
+						"pathor"
+					],
+					[
+						"k",
+						"knapsack"
+					],
+					[
+						"file",
+						"file_base_name"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/my_cpp.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/my_cpp.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/my_cpp.sublime-build",
+							""
+						],
+						[
+							"Packages/User/SFML251.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/my_cpp.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/my_java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/my_java.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instakl",
+						"Package Control: Install Package"
+					],
+					[
+						"rand",
+						"Random:Int"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"re",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"reso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"resour",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/steinum/Documents/my_code/install.sh",
+				"/home/steinum/Documents/my_code/sfml.sh",
+				"/home/steinum/FourWheelerRacing/main/pathor.h",
+				"/home/steinum/Documents/my_code/test.java",
+				"/home/steinum/FourWheelerRacing/main/game.cpp",
+				"/home/steinum/Documents/my_code/test.py",
+				"/home/steinum/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/steinum/Documents/my_code/new.java",
+				"/home/steinum/.config/sublime-text-3/Packages/User/my_java.sublime-build",
+				"/home/steinum/.config/sublime-text-3/Packages/User/SFML251.sublime-build",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/main.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/GameMapMaker.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Enemy.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Game.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/GameMapMaker.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Particle.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Pickup.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Player.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Stage.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/TextTag.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Tile.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/WButton.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Game.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Player.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/WButton.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Upgrade.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Upgrade.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/TileArr.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Tile.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/TextTag.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Stage.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Powerup.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Powerup.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Pickup.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Particle.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Map.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Map.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/MainMenu.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/MainMenu.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Boss.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Boss.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Bullet.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Bullet.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/dArr.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Enemy.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/EnemySpawner.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/EnemySpawner.h",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Galaxy.cpp",
+				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Galaxy.h",
+				"/home/steinum/gameproject2/main.cpp",
+				"/home/steinum/gameproject2/Dead__001.png",
+				"/home/steinum/gameproject2/fade.ogg",
+				"/home/steinum/gameproject2/character.hpp",
+				"/home/steinum/Project_work_2/game/main.cpp",
+				"/home/steinum/Millantis_Game/millantis.cpp",
+				"/home/steinum/Documents/my_code/test2.cpp",
+				"/home/steinum/Fun-Game/main.cpp",
+				"/home/steinum/.config/sublime-text-3/Packages/User/my_cpp.sublime-build",
+				"/home/steinum/FourWheelerRacing/main/java.cpp",
+				"/home/steinum/project-2-Game/Sfml project/Bala3.cpp",
+				"/home/steinum/FourWheelerRacing/main/life.cpp",
+				"/home/steinum/FourWheelerRacing/main/pathor.cpp",
+				"/home/steinum/.config/sublime-text-3/Packages/User/Package Control.user-ca-bundle",
+				"/home/steinum/Documents/my_code/test.cpp",
+				"/home/steinum/project-2-Game/Sfml project/BALA2.cpp",
+				"/home/steinum/swe-project-2/main.cpp",
+				"/home/steinum/project-2-Game/Sfml project/main.cpp",
+				"/home/steinum/project-2-Game/Sfml project/new.cpp",
+				"/home/steinum/SWE-150-1-2-game-project/sfml.cpp",
+				"/home/steinum/Project-150/Highway Car Shooter Version_2.0/Highway Car Shooter/high.cpp",
+				"/home/steinum/Track_mania/track_mania.cpp",
+				"/home/steinum/Project-150/Highway Car Shooter Version_3.0/high.cpp",
+				"/home/steinum/Documents/my_code/baby.cpp",
+				"/home/steinum/FourWheelerRacing/main/pause.cpp",
+				"/home/steinum/FourWheelerRacing/main/menu.cpp",
+				"/home/steinum/FourWheelerRacing/main/healthbar.cpp",
+				"/home/steinum/MotoRush/RoadRush.cpp",
+				"/home/steinum/Run_For_Life/main.cpp",
+				"/home/steinum/Run_For_Life/game.cpp",
+				"/home/steinum/Taos-Adventure/Source/Taos-Adventure.cpp",
+				"/home/steinum/new_game/FourWheelerRacing/main/game.cpp",
+				"/home/steinum/FourWheelerRacing/main/opacity.cpp",
+				"/home/steinum/new_game/Run_For_Life/main.cpp",
+				"/home/steinum/FourWheelerRacing/main/highscore.cpp",
+				"/home/steinum/Downloads/cosmoscroll-master/src/core/Game.cpp",
+				"/home/steinum/Downloads/cosmoscroll-master/src/gui/Menu.cpp",
+				"/home/steinum/Downloads/cosmoscroll-master/src/items/Item.cpp",
+				"/home/steinum/Downloads/cosmoscroll-master/src/core/Main.cpp",
+				"/home/steinum/Documents/my_code/output.txt",
+				"/home/steinum/heart.cpp",
+				"/home/steinum/swe-project-2/collusion.h",
+				"/home/steinum/swe-project-2/game.cpp",
+				"/home/steinum/Project-150/highway/high.cpp",
+				"/home/steinum/Project-150/highway/Highway_Car_Shooter(Main).cpp",
+				"/home/steinum/SWE_150_Project_2/TheExtremeFIGHTERR.cpp",
+				"/home/steinum/project-work-game--2/main.cpp",
+				"/home/steinum/Project-150/Highway Car Shooter/Highway_Car_Shooter(Main).cpp",
+				"/home/steinum/Bomber_friends/enemy.anime.cpp",
+				"/home/steinum/MotoRush/experiment.cpp",
+				"/home/steinum/1-2-Project---Quest-Ball/Collision.cpp",
+				"/home/steinum/1-2-Project---Quest-Ball/main.cpp",
+				"/home/steinum/1-2-Project---Quest-Ball/header/gameee.hpp",
+				"/home/steinum/1-2-Project---Quest-Ball/header/Collision.h",
+				"/home/steinum/Project-2-Track-Mania/main.cpp",
+				"/home/steinum/Andropple/main.cpp",
+				"/home/steinum/sfml-hulk-game/pulock/main.cpp",
+				"/home/steinum/sfml-hulk-game/pulock/menu.cpp",
+				"/home/steinum/FourWheelerRacing/main/RM.sh",
+				"/home/steinum/Guardians-of-the-Galaxy/Guardians-of-the-Galaxy/main.cpp",
+				"/home/steinum/FourWheelerRacing/main/points.cpp",
+				"/home/steinum/Guardians-of-the-Galaxy/ConsoleApplication1/ConsoleApplication1/main.cpp",
+				"/home/steinum/.config/sublime-text-3/Packages/C++/C++ Single File.sublime-build",
+				"/home/steinum/Documents/my_code/test3.cpp",
+				"/home/steinum/Downloads/FourWheelerRacing-master/main/game.cpp",
+				"/home/steinum/Downloads/Project-2-GAME--master/game.cpp",
+				"/media/steinum/FEA61C3AA61BF23F/Users/IICT/Documents/k.cpp",
+				"/media/steinum/FEA61C3AA61BF23F/Users/IICT/Documents/g.cpp",
+				"/media/steinum/FEA61C3AA61BF23F/Users/IICT/Documents/f.cpp",
+				"/media/steinum/FEA61C3AA61BF23F/Users/IICT/Documents/a.cpp",
+				"/media/steinum/FEA61C3AA61BF23F/Users/IICT/Documents/c.cpp"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+					"/home/steinum/Guardian-of-the-Galaxy"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"=",
+					"a==",
+					"setColor",
+					"Game",
+					"playerNr",
+					"SFML\\",
+					"\\",
+					"ha_timer",
+					"\\",
+					"pic//",
+					"car2x",
+					"Car2",
+					"car2",
+					"Car2",
+					"car2",
+					"Car2",
+					"car2",
+					"pic//car2",
+					"pic//",
+					"//",
+					"setColor",
+					"menu_bar_b",
+					"c_s_b",
+					"close_b",
+					"c_s_b",
+					"exit",
+					"m_s",
+					"timer",
+					"move",
+					"draw",
+					"new_menu",
+					"menu",
+					"menu_sp",
+					"new_game",
+					"menu_sp",
+					"new_game",
+					"menu_sp",
+					"new_game_t",
+					"finish_music",
+					"song",
+					"bgm_finish",
+					"s_m",
+					"stone_m",
+					"@game",
+					"c_m",
+					"coin_m",
+					"30",
+					"me(30);",
+					"r_m",
+					"right_move",
+					"song",
+					"forhad_music",
+					"@game",
+					"window",
+					"#",
+					"#file/fattor1.png",
+					"# file/fattor1.png",
+					"point",
+					"setColor",
+					"font",
+					"isButtonPressed",
+					"White",
+					"400",
+					"480",
+					"setString",
+					".setP",
+					"setString",
+					",",
+					"about",
+					"new_game",
+					"getPosition",
+					"-100",
+					"500",
+					"450",
+					"500",
+					"400",
+					"0.2",
+					"(0.2,0.2)",
+					"scale",
+					"setPosition",
+					"loadFromFile",
+					"setTexture",
+					"// ",
+					"10",
+					"scale",
+					"199.5",
+					"rotate",
+					"0.5",
+					"340.5-239.5",
+					"489",
+					"687",
+					"706.5",
+					"919.5",
+					"919",
+					"setPosition",
+					"919.5",
+					"836.5",
+					"696.5",
+					"706.5",
+					"setOrigin",
+					"526",
+					"217.5",
+					".0",
+					"501",
+					"501.0",
+					"511.5",
+					"500",
+					"rotate(90);",
+					"rotate(180);",
+					"scale(0.5,0.5)",
+					"hea[i].setPosition(500,400);",
+					"hea[i].rotate(180);",
+					"hea[i].scale(-0.5,-0.5);",
+					"setPosition(50,40)",
+					"setPosition",
+					"framerate",
+					"0.5",
+					"}",
+					"coin",
+					"coin_point",
+					"name}",
+					"main",
+					"setColor",
+					"Collision",
+					"\\",
+					"/var",
+					"/usr",
+					"isopen"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"setFillColor",
+					"SFML/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 102.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"in",
+						"install.sh"
+					],
+					[
+						"player",
+						"Galaxy/Player.h"
+					],
+					[
+						"java",
+						"test.java"
+					],
+					[
+						".java",
+						"test.java"
+					],
+					[
+						"test2.c",
+						"test2.cpp"
+					],
+					[
+						"tst",
+						"test2.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -239,10 +991,27 @@
 			"buffers":
 			[
 				{
+					"file": "/home/steinum/FourWheelerRacing/main/pathor.cpp",
+					"settings":
+					{
+						"buffer_size": 3504,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/steinum/Documents/my_code/string.cpp",
+					"settings":
+					{
+						"buffer_size": 588,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "/home/steinum/Documents/my_code/test.java",
 					"settings":
 					{
-						"buffer_size": 3249,
+						"buffer_size": 3155,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -251,7 +1020,7 @@
 					"file": "/home/steinum/Documents/my_code/input.txt",
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 0,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -266,7 +1035,7 @@
 					}
 				}
 			],
-			"build_system": "Packages/User/SFML251.sublime-build",
+			"build_system": "Packages/User/my_java.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -309,7 +1078,7 @@
 						]
 					],
 					[
-						"Packages/User/SFML251.sublime-build",
+						"Packages/User/my_cpp.sublime-build",
 						""
 					]
 				],
@@ -332,6 +1101,22 @@
 						"Packages/User/my_java.sublime-build",
 						""
 					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
 				]
 			],
 			"build_varint": "",
@@ -342,8 +1127,28 @@
 				"selected_items":
 				[
 					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"instakl",
+						"Package Control: Install Package"
+					],
+					[
+						"rand",
+						"Random:Int"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
 					],
 					[
 						"theme",
@@ -359,10 +1164,6 @@
 					],
 					[
 						"reso",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"resou",
 						"PackageResourceViewer: Open Resource"
 					],
 					[
@@ -394,6 +1195,16 @@
 			],
 			"file_history":
 			[
+				"/home/steinum/Documents/my_code/install.sh",
+				"/home/steinum/Documents/my_code/sfml.sh",
+				"/home/steinum/FourWheelerRacing/main/pathor.h",
+				"/home/steinum/Documents/my_code/test.java",
+				"/home/steinum/FourWheelerRacing/main/game.cpp",
+				"/home/steinum/Documents/my_code/test.py",
+				"/home/steinum/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+				"/home/steinum/Documents/my_code/new.java",
+				"/home/steinum/.config/sublime-text-3/Packages/User/my_java.sublime-build",
+				"/home/steinum/.config/sublime-text-3/Packages/User/SFML251.sublime-build",
 				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/main.cpp",
 				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/GameMapMaker.h",
 				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Enemy.cpp",
@@ -433,18 +1244,15 @@
 				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/EnemySpawner.h",
 				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Galaxy.cpp",
 				"/home/steinum/Guardian-of-the-Galaxy/Galaxy/Galaxy.h",
-				"/home/steinum/Documents/my_code/test.java",
 				"/home/steinum/gameproject2/main.cpp",
 				"/home/steinum/gameproject2/Dead__001.png",
 				"/home/steinum/gameproject2/fade.ogg",
 				"/home/steinum/gameproject2/character.hpp",
-				"/home/steinum/FourWheelerRacing/main/game.cpp",
 				"/home/steinum/Project_work_2/game/main.cpp",
 				"/home/steinum/Millantis_Game/millantis.cpp",
 				"/home/steinum/Documents/my_code/test2.cpp",
 				"/home/steinum/Fun-Game/main.cpp",
 				"/home/steinum/.config/sublime-text-3/Packages/User/my_cpp.sublime-build",
-				"/home/steinum/.config/sublime-text-3/Packages/User/my_java.sublime-build",
 				"/home/steinum/FourWheelerRacing/main/java.cpp",
 				"/home/steinum/project-2-Game/Sfml project/Bala3.cpp",
 				"/home/steinum/FourWheelerRacing/main/life.cpp",
@@ -471,7 +1279,6 @@
 				"/home/steinum/FourWheelerRacing/main/opacity.cpp",
 				"/home/steinum/new_game/Run_For_Life/main.cpp",
 				"/home/steinum/FourWheelerRacing/main/highscore.cpp",
-				"/home/steinum/.config/sublime-text-3/Packages/User/SFML251.sublime-build",
 				"/home/steinum/Downloads/cosmoscroll-master/src/core/Game.cpp",
 				"/home/steinum/Downloads/cosmoscroll-master/src/gui/Menu.cpp",
 				"/home/steinum/Downloads/cosmoscroll-master/src/items/Item.cpp",
@@ -526,6 +1333,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\"=",
+					"a==",
 					"setColor",
 					"Game",
 					"playerNr",
@@ -651,9 +1460,7 @@
 					"\\",
 					"/var",
 					"/usr",
-					"isopen",
-					"setFillColor",
-					"\\"
+					"isopen"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -679,32 +1486,92 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/steinum/Documents/my_code/test.java",
+							"file": "/home/steinum/FourWheelerRacing/main/pathor.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3249,
+								"buffer_size": 3504,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3249,
-										3249
+										1132,
+										1132
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Java/Java.sublime-syntax"
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1248.0,
+								"translation.y": 39.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/steinum/Documents/my_code/string.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 588,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										390,
+										390
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/steinum/Documents/my_code/test.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3155,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										337,
+										337
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -717,20 +1584,20 @@
 					"sheets":
 					[
 						{
-							"buffer": 1,
+							"buffer": 3,
 							"file": "/home/steinum/Documents/my_code/input.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 42,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										42,
-										42
+										0,
+										0
 									]
 								],
 								"settings":
@@ -743,7 +1610,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -753,7 +1620,7 @@
 					"sheets":
 					[
 						{
-							"buffer": 2,
+							"buffer": 4,
 							"file": "/home/steinum/Documents/my_code/output.txt",
 							"semi_transient": false,
 							"settings":
@@ -765,7 +1632,7 @@
 								"selection":
 								[
 									[
-										96,
+										0,
 										0
 									]
 								],
@@ -779,7 +1646,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -791,7 +1658,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"layout":
 			{
@@ -819,7 +1686,7 @@
 				"cols":
 				[
 					0.0,
-					0.728496959166,
+					0.708948740226,
 					1.0
 				],
 				"rows":
@@ -830,6 +1697,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
 			"output.exec":
 			{
 				"height": 102.0
@@ -852,6 +1723,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"in",
+						"install.sh"
+					],
 					[
 						"player",
 						"Galaxy/Player.h"
