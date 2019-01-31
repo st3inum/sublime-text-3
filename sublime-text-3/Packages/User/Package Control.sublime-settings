@@ -5,8 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Chain of Command",
+		"Javatar",
 		"Monokai - Spacegray",
 		"Package Control",
-		"PackageResourceViewer"
+		"PackageResourceViewer",
+		"Random Everything",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"UbuntuPaste"
 	]
 }
