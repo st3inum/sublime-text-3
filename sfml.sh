@@ -6,7 +6,5 @@ if [ ! -d /opt/sfml ]; then
 	mv SFML-2.5.1 sfml
 	sudo mv sfml /opt/
 	rm SFML-2.5.1-linux-gcc-64-bit.tar.gz
+	sudo apt install libopenal-dev
 fi
-
-
-
