@@ -36,9 +36,9 @@ class Trie
 	void insert(string s)
 	{
 		node *curr=root;
-		for(auto a:s)
+		for(int i=0;i<s.size();i++)
 		{
-			int k=a-'${2:a}';
+			int k=s[i]-'${2:a}';
 			if(curr->next[k]==NULL)
 				curr->next[k]=new node();
 			curr=curr->next[k];
@@ -48,9 +48,9 @@ class Trie
 	bool search(string s)
 	{
 		node *curr=root;
-		for(auto a:s)
+		for(int i=0;i<s.size();i++)
 		{
-			int k=a-'${2:a}';
+			int k=s[i]-'${2:a}';
 			if(curr->next[k]==NULL)
 				return false;
 			curr=curr->next[k];

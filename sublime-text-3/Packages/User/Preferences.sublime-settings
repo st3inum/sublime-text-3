@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
 	"font_size": 8,
+	"hide_sidebar_change_count_trigger": 5,
 	"ignored_packages":
 	[
 		"Vintage"
