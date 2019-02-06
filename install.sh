@@ -19,7 +19,8 @@ cd ~/.config
 if [ -d sublime-text-3 ]; then
 	rm -rf sublime-text-3/
 fi
-svn export https://github.com/st3inum/sublime-text-3.git/trunk/sublime-text-3
+# svn export https://github.com/st3inum/sublime-text-3.git/trunk/sublime-text-3
+svn export https://github.com/st3inum/test.git/trunk/sublime-text-3
 
 
 
