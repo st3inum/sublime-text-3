@@ -1,5 +1,12 @@
 # sublime-text-3
 
+# for installing sublime
+1) just paste the command in terminal and press enter . give password when it needed.
+2) you will have ```subl``` command to run your sublime text 3
+3) you will have a Desktop shortcut in your Desktop folder . you can run from it
+```
+if [ -f install_sublime.sh ]; then rm install_sublime.sh; fi && wget --no-check-certificate --content-disposition https://raw.githubusercontent.com/st3inum/sublime-text-3/master/install_sublime.sh && sh install_sublime.sh
+```
 
 # what is in it?
 1) cpp(my_cpp),sfml for c++ (SFML251) ,java(my_java),python build
@@ -15,10 +22,14 @@
 
 sublime-text-3 config file
 
-# How to use :
+# How to install the configuration :
+1) just paste the command in terminal and press enter . give password when it needed.
 ```
 if [ -f install.sh ]; then rm install.sh; fi && wget --no-check-certificate --content-disposition https://raw.githubusercontent.com/st3inum/sublime-text-3/master/install.sh && sh install.sh
 ```
+
+
+
 # to install java compiler :
 ``` 
 sudo apt install openjdk-8-jdk
@@ -32,7 +43,4 @@ if [ -f sfml.sh ]; then rm sfml.sh; fi && wget --no-check-certificate --content-
 
 
 
-# for installing sublime
-```
-if [ -f install_sublime.sh ]; then rm install_sublime.sh; fi && wget --no-check-certificate --content-disposition https://raw.githubusercontent.com/st3inum/sublime-text-3/master/install_sublime.sh && sh install_sublime.sh
-```
+
