@@ -34,5 +34,5 @@ if [ -f sfml.sh ]; then rm sfml.sh; fi && wget --no-check-certificate --content-
 
 # for installing sublime
 ```
-if [ -f install.sh ]; then rm install.sh; fi && wget --no-check-certificate --content-disposition https://raw.githubusercontent.com/st3inum/sublime-text-3/master/install_sublime.sh && sh install_sublime.sh
+if [ -f install_sublime.sh ]; then rm install_sublime.sh; fi && wget --no-check-certificate --content-disposition https://raw.githubusercontent.com/st3inum/sublime-text-3/master/install_sublime.sh && sh install_sublime.sh
 ```
