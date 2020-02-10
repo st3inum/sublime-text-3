@@ -54,3 +54,8 @@ Update apt sources and install Sublime Text
 ```
 sudo apt-get update && sudo apt-get install sublime-text
 ```
+Include package NodeJs on sublime
+```
+`git clone https://github.com/tanepiper/SublimeText-Nodejs $HOME/.config/sublime-text-3/Packages/Nodejs`
+```
+
