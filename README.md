@@ -58,4 +58,15 @@ Include package NodeJs on sublime
 ```
 `git clone https://github.com/tanepiper/SublimeText-Nodejs $HOME/.config/sublime-text-3/Packages/Nodejs`
 ```
+Include Terminal on sublime
+```
+step1:go to prefarences->package control
+step2:select install package
+step3:write terminal
+step4:select terminal(not terminality) and press enter
+step5:restart sublime
+step6:use terminal:
+Open Terminal at File Press ctrl+shift+t on Windows and Linux, or cmd+shift+t on OS X
+Open Terminal at Project Folder Press ctrl+alt+shift+t on Windows and Linux, or cmd+alt+shift+t on OS X
+```
 
