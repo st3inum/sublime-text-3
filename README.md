@@ -40,7 +40,31 @@ if [ -f sfml.sh ]; then rm sfml.sh; fi && wget --no-check-certificate --content-
 
 ```
 
-
-
-
+Stable
+```
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+```
+Dev
+```
+echo "deb https://download.sublimetext.com/ apt/dev/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+```
+Update apt sources and install Sublime Text
+```
+sudo apt-get update && sudo apt-get install sublime-text
+```
+Include package NodeJs on sublime
+```
+`git clone https://github.com/tanepiper/SublimeText-Nodejs $HOME/.config/sublime-text-3/Packages/Nodejs`
+```
+Include Terminal on sublime
+```
+step1:go to preferences->package control
+step2:select install package
+step3:write terminal
+step4:select terminal(not terminality) and press enter
+step5:restart sublime
+step6:use terminal:
+Open Terminal at File Press ctrl+shift+t on Windows and Linux, or cmd+shift+t on OS X
+Open Terminal at Project Folder Press ctrl+alt+shift+t on Windows and Linux, or cmd+alt+shift+t on OS X
+```
 
