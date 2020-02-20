@@ -60,7 +60,7 @@ Include package NodeJs on sublime
 ```
 Include Terminal on sublime
 ```
-step1:go to prefarences->package control
+step1:go to preferences->package control
 step2:select install package
 step3:write terminal
 step4:select terminal(not terminality) and press enter
